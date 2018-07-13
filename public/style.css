@@ -868,7 +868,8 @@ section {
       line-height: 1.6;
       -webkit-font-smoothing: antialiased; }
       section.left .top p i {
-        font-family: "DTLI", serif; }
+        font-family: "DTLI", serif;
+        font-style: normal; }
     section.left .top a {
       display: table;
       padding-bottom: 0.25em;
